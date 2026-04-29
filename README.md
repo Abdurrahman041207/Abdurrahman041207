@@ -48,10 +48,10 @@ Full Stack Developer | Backend Systems | Cloud & Scalable APIs
 - NPM  
 - VS Code
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdurrahman041207&show_icons=true&theme=radical)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrahman041207&layout=compact&theme=radical)
-- ![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahman041207&theme=radical)
-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdurrahman041207&theme=react-dark)
+---
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdurrahman041207&show_icons=true&theme=radical)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdurrahman041207&theme=react-dark)
 <!--
 **Abdurrahman041207/Abdurrahman041207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
